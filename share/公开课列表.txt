@@ -1,0 +1,9 @@
+[20180412] 数据平台之Spring Boot&Spring Data使用  https://ke.qq.com/course/258137
+[20180413] 模板模式在大数据处理中的使用     QQ群
+[20180414] DBA/运维如何转型大数据的亲身经历分享(互联网企业)  https://ke.qq.com/course/235161
+[20180419] 数据平台之FreeMarker&整合Spring Boot使用  https://ke.qq.com/course/258137
+[20180426] 数据平台之统一元数据管理  https://ke.qq.com/course/258137
+
+
+
+
