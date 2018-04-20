@@ -42,6 +42,8 @@
 ##### Compress Format:
 [1.大数据压缩，你们真的了解吗](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483778&idx=1&sn=ea586218142d9b21cb4d68d9675956b6&chksm=908f2beba7f8a2fda956ea7b128ed7c419cc322715199813bff22c3c00667afa34d93cf96853#rd)  
 [2.Hive压缩格式的生产应用](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483779&idx=1&sn=03051f1cfc307b70bd442bf16dcf0d67&chksm=908f2beaa7f8a2fc49ac09613db06679dc41955cdaa4ef07c9704da357d6c7d8b5350a3e67cf#rd)
+
+[3.大数据存储格式，你们真的了解吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483808&idx=1&sn=a3d1377b50ecb87bb75c9a089e9273c8&chksm=908f2bc9a7f8a2dfed87b00d06239dc175a70f70a2851343273a942ee74cb3121a9849a50353#rd)
 ##### Storage Format:
 ##### Flume:
 ##### Kafka:
