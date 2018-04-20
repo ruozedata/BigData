@@ -100,7 +100,7 @@
 [9.CDH5之Exhausted available authentication methods](http://blog.itpub.net/30089851/viewspace-2075759/)  
 [10.CDH5之Unexpected error.Unable to verify database connection](http://blog.itpub.net/30089851/viewspace-1987886/)  
 
-#####[《零基础企业级CDH(安全)平台实战》，详情查看课程概述或进行试听](https://ke.qq.com/course/241568?tuin=11cffd50)
+##### [《零基础企业级CDH(安全)平台实战》，详情查看课程概述或进行试听](https://ke.qq.com/course/241568?tuin=11cffd50)
 
 
 
