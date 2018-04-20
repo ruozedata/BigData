@@ -39,16 +39,19 @@
   
 ------------------------------大数据进阶------------------------------   
 
-##### Compress Format:
-[1.大数据压缩，你们真的了解吗](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483778&idx=1&sn=ea586218142d9b21cb4d68d9675956b6&chksm=908f2beba7f8a2fda956ea7b128ed7c419cc322715199813bff22c3c00667afa34d93cf96853#rd)  
+##### Compress And Storage Format:
+[1.大数据压缩，你们真的了解吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483778&idx=1&sn=ea586218142d9b21cb4d68d9675956b6&chksm=908f2beba7f8a2fda956ea7b128ed7c419cc322715199813bff22c3c00667afa34d93cf96853#rd)  
 [2.Hive压缩格式的生产应用](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483779&idx=1&sn=03051f1cfc307b70bd442bf16dcf0d67&chksm=908f2beaa7f8a2fc49ac09613db06679dc41955cdaa4ef07c9704da357d6c7d8b5350a3e67cf#rd)
-##### Storage Format:
+
+[3.大数据存储格式，你们真的了解吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483808&idx=1&sn=a3d1377b50ecb87bb75c9a089e9273c8&chksm=908f2bc9a7f8a2dfed87b00d06239dc175a70f70a2851343273a942ee74cb3121a9849a50353#rd)
+
 ##### Flume:
 ##### Kafka:
 
 ##### Scala:  
 ##### Spark:
 [1.Spark2.2.0 全网最详细的源码编译](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483751&idx=1&sn=5b0b76b6fba35e1cb32ad8bf49530f3c&chksm=908f2b0ea7f8a2187e9745f816d2582b1544277fe863b14be319bd1f9e7018b70718691f67e6#rd)
+
 ##### Phoenix:  
 ##### HBase:
 ##### Kudu:
@@ -75,7 +78,32 @@
 
  
 ------------------------------大数据平台运维------------------------------  
-##### CDH:
+##### CDH 入门:
+
+[1.CDH离线部署和暴力卸载、Kerberos【视频】](https://ke.qq.com/course/241568?tuin=11cffd50)  
+[2.CDH下载各种软件包](http://blog.itpub.net/30089851/viewspace-2092318/)  
+[3.CDH4/5集群正确启动和停止顺序](http://blog.itpub.net/30089851/viewspace-2126298/)   
+[4.CDH5 快速入门手册v1.0(体系架构+目录详解)](http://blog.itpub.net/30089851/viewspace-1991862/)  
+[5.CDH4/5配置文件之深度解析](http://blog.itpub.net/30089851/viewspace-2110288/) 
+[6.CDH5之Trash](http://blog.itpub.net/30089851/viewspace-1990991/)
+
+##### CDH 案例:
+[1.记录一次帮网友解决CDH集群机器的时钟偏差](http://blog.itpub.net/30089851/viewspace-2133322/)   
+[2.CDH集群机器,安装多个CDH版,会出现命令找不到,如hadoop,hdfs等等](http://blog.itpub.net/30089851/viewspace-2128683/)  
+[3.CDH5.8.2安装之Hash verification failed](http://blog.itpub.net/30089851/viewspace-2128607/)  
+[4.记录CDH Spark2的spark2-submit的一个No such file or directory问题](http://blog.itpub.net/30089851/viewspace-2134627/)  
+[5.记录CDH5.10一个clients.NetworkClient: Bootstrap broker ip:9092 disconnected问题](http://blog.itpub.net/30089851/viewspace-2135135/)  
+
+[6.记录自定义kafka的parcel库,CDH安装kafka服务,无法安装过去的排雷过程](http://blog.itpub.net/30089851/viewspace-2136372/)  
+[7.记录CDH安装的一个坑:could not contact scm server at localhost:7182, giving up](http://blog.itpub.net/30089851/viewspace-2137618/)   
+[8.CDH5之Found class jline.Terminal, but interface was expected](http://blog.itpub.net/30089851/viewspace-2082146/)  
+[9.CDH5之Exhausted available authentication methods](http://blog.itpub.net/30089851/viewspace-2075759/)  
+[10.CDH5之Unexpected error.Unable to verify database connection](http://blog.itpub.net/30089851/viewspace-1987886/)  
+
+##### [《零基础企业级CDH(安全)平台实战》，详情查看课程概述或进行试听](https://ke.qq.com/course/241568?tuin=11cffd50)
+
+
+
 
 ------------------------------故障案例---------------------------------------
  
