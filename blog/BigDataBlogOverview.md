@@ -1,6 +1,7 @@
 ## 若泽大数据--博客一览
 请花1min，阅读or收藏；  
-我们整理 大数据 系列博文列表(内部学员原创博文及我们生产博文)，每日更新。
+我们整理 大数据 系列博文列表+视频，  
+内部学员原创博文及我们生产博文，当前更新于 20180428。
 
 
 创业心声:
@@ -43,7 +44,11 @@
 ##### Hive:
 [Hive应用实战课程【buy视频】](https://ke.qq.com/course/236561?tuin=11cffd50)  
 
-[1.Hive全网最详细的编译及部署](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483748&idx=1&sn=3a7db2f9c8a667bcad3aa37ece461360&chksm=908f2b0da7f8a21b5fb24869d7204709176fd417da2ab55afa88c3f15e45546eb8906a4b9496#rd)
+[1.Hive全网最详细的编译及部署](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483748&idx=1&sn=3a7db2f9c8a667bcad3aa37ece461360&chksm=908f2b0da7f8a21b5fb24869d7204709176fd417da2ab55afa88c3f15e45546eb8906a4b9496#rd)  
+[2.Hive DDL，你真的了解吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483815&idx=1&sn=63b2a8307fab8d53efcb6677b8140e82&chksm=908f2bcea7f8a2d80b06d5f01c8cfe0dd2382e3226d54d325d9aa51834bfcf911de01b96a484&scene=38#wechat_redirect)  
+[3.Hive自定义函数(UDF)的编程开发，你会吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483821&idx=1&sn=996cd6ddab7fa237cfdb297466651443&chksm=908f2bc4a7f8a2d28e838aa20ac34b6bcba80983df6df0bc3ae91cea9df2a91fd3c96fb1f1fe&scene=38#wechat_redirect)  
+[4.Hive自定义函数(UDF)的部署使用，你会吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483825&idx=1&sn=e8f240339d698d44a0aba30245437ed5&chksm=908f2bd8a7f8a2ceb1cbe0a7afe847f0b23d5c61a24fa1b27c4d41bb0198c7ca48d2f9b0bd16&scene=38#wechat_redirect)  
+
 ##### SQOOP:
 [Sqoop应用实战课程【buy视频】](https://ke.qq.com/course/243478?tuin=11cffd50)  
 
@@ -55,8 +60,9 @@
 [2.Hive压缩格式的生产应用](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483779&idx=1&sn=03051f1cfc307b70bd442bf16dcf0d67&chksm=908f2beaa7f8a2fc49ac09613db06679dc41955cdaa4ef07c9704da357d6c7d8b5350a3e67cf#rd)
 
 [3.大数据存储格式，你们真的了解吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483808&idx=1&sn=a3d1377b50ecb87bb75c9a089e9273c8&chksm=908f2bc9a7f8a2dfed87b00d06239dc175a70f70a2851343273a942ee74cb3121a9849a50353#rd)  
-[4.Hive存储格式的生产应用](https://mp.weixin.qq.com/s/B2tsou1siflOVh7cIVqh3Q)
+[4.Hive存储格式的生产应用](https://mp.weixin.qq.com/s/B2tsou1siflOVh7cIVqh3Q)  
 
+[5.Hive生产上，压缩和存储结合使用案例](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483811&idx=1&sn=cb6473764efdc4c2796cd832042887b4&chksm=908f2bcaa7f8a2dc4fdb5c25aa35356a5ee26376af2e585e7b3cec7c73e9d1049a10f15ed519&scene=38#wechat_redirect)
 ##### Flume:
 ##### Kafka:
 [批处理ETL已亡，Kafka才是数据处理的未来【buy视频】](https://ke.qq.com/course/278667?tuin=11cffd50)
@@ -97,7 +103,8 @@
 
 
 ##### 线下项目: 承诺上课是直接VPN公司生产环境，直接生产环境讲解生产项目
-[线下项目第9期， 端午节2.5天课程，正在报名！](http://www.ruozedata.com/line.html)
+[1.基于Spark的某互联网直播平台大数据分析项目实战第3季，正在报名！单击查看前2季的目录.](https://ke.qq.com/course/258137?tuin=11cffd50)  
+[2.线下班生产项目第9期，端午节2.5天课程，正在报名！](http://www.ruozedata.com/line.html)
 
  
 大数据平台运维：
