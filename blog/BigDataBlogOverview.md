@@ -1,14 +1,21 @@
 ## 若泽大数据--博客一览
 请花1min，阅读or收藏；  
 我们整理 大数据 系列博文列表+视频，  
-内部学员原创博文及我们生产博文，当前更新于 20180428。
+内部学员原创博文及我们生产博文，当前更新于 20180504。
 
 
 创业心声:
 -------
 [1.关于我们](http://www.ruozedata.com/about.html)  
 [2.谈谈我和大数据的情缘及入门](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483702&idx=1&sn=5e21f983876757e9cbb291846ff804b4&chksm=908f2b5fa7f8a24916151090c55c8dc104c7c587965a3335174c0664ff27a459a52824e66057&scene=38#wechat_redirect)  
-[3.欢迎有梦想的您](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483716&idx=1&sn=47094938d1af752cd95e7be41dd8a51d&chksm=908f2b2da7f8a23bf3484b07f74ed523c70e878c47a8b36a93e15962cda87c506dee1e1614b1&scene=38#wechat_redirect)
+[3.欢迎有梦想的您](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483716&idx=1&sn=47094938d1af752cd95e7be41dd8a51d&chksm=908f2b2da7f8a23bf3484b07f74ed523c70e878c47a8b36a93e15962cda87c506dee1e1614b1&scene=38#wechat_redirect)   
+
+创业活动:
+-------
+[1.若泽大数据举办“清明节转一转”，赢积分，兑换课程](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483722&idx=1&sn=9fdee1254f5e52bccd68b7e4675764fa&chksm=908f2b23a7f8a235ee54049eebd9ce7731eb26f72b3eb1782caa5409d46a9275a2bb55318e55&scene=38#wechat_redirect)  
+[2.若泽大数据举办“五一节翻一翻”，赢积分，兑换课程](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483836&idx=1&sn=1544eb9897d933470a028d3de6a1beb3&chksm=908f2bd5a7f8a2c345c729493956e9e744ff03fb584ffcf654a8ade684625fc8ad85383fa8c3&scene=38#wechat_redirect)   
+[3.若泽大数据，端午节1周年活动倒计时！](wwww.ruozedata.com)  
+
 
 大数据零基础：
 ----------
@@ -30,7 +37,7 @@
 ##### DataBase And SQL: 
  
 ##### Hadoop:  
-[1.Hadoop2.8.1全网最详细编译](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&tempkey=OTUzX05HVVFuK0pPN1dXZGVYSUZxUHFTR0RpTi1Pa2RCZGltcHUtaWgyOGNqY1pWck8tejhhZkVsbUZtOUZmTTIyQWszQUZhSzBWVWh2ZlEtX1FTYW9MX1dvejBVRTV4Q2FrUVNteTdIQzM5WTJROFR5dzItbERFdlhBaU1sY01GdXRwNFJZYmZZdlhDblNxTWhVU1hYTy1WUUJ2cXNGQU5JaEtxdnFoOEF%2Bfg%3D%3D&chksm=108f2b5127f8a247f9836d529f3f531303e21341dde674ef5f60c8546a91d2f51fa49ea3339f#rd)  
+[1.Hadoop2.8.1全网最详细编译](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483841&idx=1&sn=a34e93ca29a523a6ab34781f68a02d41&chksm=908f2ba8a7f8a2bea89641d4e77a7c3daf50036c7c234eabb986a1128885d66c09cf9a50030e&scene=38#wechat_redirect)  
 [2.Hadoop全网最详细的伪分布式部署(HDFS)](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483731&idx=1&sn=40021b1c7db069b56dad3646bfa45408&chksm=908f2b3aa7f8a22c7d9d2bd4b19956fee63cb02c205c0f1bf836426abf5c26f1e2e40af1f045#rd)  
 [3.Hadoop全网最详细的伪分布式部署(MapReduce+Yarn)](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483744&idx=1&sn=9d0d61ecc3be2f71de640c9bcd7f8027&chksm=908f2b09a7f8a21fe62cd8adda08acb6f2ce040d5e2b73dbcf6dd2874dcedd3baf0f64804cfc#rd)  
 [4.Hadoop常用命令大全01](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483764&idx=1&sn=7a4c9d254f85cf8f302724a0b511e16c&chksm=908f2b1da7f8a20bdc4928c13f313f379204256d809c4e7212f16574f7b4a2eb3b265d1b59cb#rd)   
@@ -47,7 +54,9 @@
 [1.Hive全网最详细的编译及部署](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483748&idx=1&sn=3a7db2f9c8a667bcad3aa37ece461360&chksm=908f2b0da7f8a21b5fb24869d7204709176fd417da2ab55afa88c3f15e45546eb8906a4b9496#rd)  
 [2.Hive DDL，你真的了解吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483815&idx=1&sn=63b2a8307fab8d53efcb6677b8140e82&chksm=908f2bcea7f8a2d80b06d5f01c8cfe0dd2382e3226d54d325d9aa51834bfcf911de01b96a484&scene=38#wechat_redirect)  
 [3.Hive自定义函数(UDF)的编程开发，你会吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483821&idx=1&sn=996cd6ddab7fa237cfdb297466651443&chksm=908f2bc4a7f8a2d28e838aa20ac34b6bcba80983df6df0bc3ae91cea9df2a91fd3c96fb1f1fe&scene=38#wechat_redirect)  
-[4.Hive自定义函数(UDF)的部署使用，你会吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483825&idx=1&sn=e8f240339d698d44a0aba30245437ed5&chksm=908f2bd8a7f8a2ceb1cbe0a7afe847f0b23d5c61a24fa1b27c4d41bb0198c7ca48d2f9b0bd16&scene=38#wechat_redirect)  
+[4.Hive自定义函数(UDF)的部署使用，你会吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483825&idx=1&sn=e8f240339d698d44a0aba30245437ed5&chksm=908f2bd8a7f8a2ceb1cbe0a7afe847f0b23d5c61a24fa1b27c4d41bb0198c7ca48d2f9b0bd16&scene=38#wechat_redirect)   
+[5. 2min快速了解，Hive内部表和外部表](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483840&idx=1&sn=eff7a0596d3dde834073cba4b2dbc9f4&chksm=908f2ba9a7f8a2bf03e5dc2a674d7653df6c0c90acea484f77a4b802bfe1c578f152d0838fe0&scene=38#wechat_redirect)    
+[6. 5min掌握，Hive的HiveServer2 和JDBC客户端&代码的生产使用](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483846&idx=1&sn=4f1ce755bc9807121351d4f0b92c8183&chksm=908f2bafa7f8a2b9580a8dc2f299eb23398cd469259730c4403571a91fc2aed8afe000ea6797&scene=38#wechat_redirect)  
 
 ##### SQOOP:
 [Sqoop应用实战课程【buy视频】](https://ke.qq.com/course/243478?tuin=11cffd50)  
