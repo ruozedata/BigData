@@ -73,6 +73,8 @@
  
 [1.Spark2.2.0 全网最详细的源码编译](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483751&idx=1&sn=5b0b76b6fba35e1cb32ad8bf49530f3c&chksm=908f2b0ea7f8a2187e9745f816d2582b1544277fe863b14be319bd1f9e7018b70718691f67e6#rd)
 
+[2.Spark-2.2.0-bin-2.6.0-cdh5.12.1.tgz 编译方法总结！](https://blog.csdn.net/lsr40/article/details/80116235)
+
 ##### Phoenix:  
 ##### HBase:
 ##### Kudu:
