@@ -14,7 +14,7 @@
 -------
 [1.若泽大数据举办“清明节转一转”，赢积分，兑换课程](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483722&idx=1&sn=9fdee1254f5e52bccd68b7e4675764fa&chksm=908f2b23a7f8a235ee54049eebd9ce7731eb26f72b3eb1782caa5409d46a9275a2bb55318e55&scene=38#wechat_redirect)  
 [2.若泽大数据举办“五一节翻一翻”，赢积分，兑换课程](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483836&idx=1&sn=1544eb9897d933470a028d3de6a1beb3&chksm=908f2bd5a7f8a2c345c729493956e9e744ff03fb584ffcf654a8ade684625fc8ad85383fa8c3&scene=38#wechat_redirect)   
-[3.若泽大数据，端午节1周年活动倒计时！](wwww.ruozedata.com)  
+[3.若泽大数据，端午节1周年活动倒计时！欢迎新老学员报名，5月报名送1周年定制👕](http://ruozedata.com)   
 
 
 大数据零基础：
