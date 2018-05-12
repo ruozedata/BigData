@@ -1,8 +1,10 @@
 ## 若泽大数据--博客一览
 请花1min，阅读or收藏；  
 我们整理 大数据 系列博文列表+视频，  
-内部学员原创博文及我们生产博文，当前更新于 20180504。
+内部学员原创博文及我们生产博文，当前更新于 20180512
 
+领取大数据实战班和公开课视频，微信关注公众号自动领取 :   
+[若泽大数据](http://ruozedata.com)
 
 创业心声:
 -------
@@ -55,8 +57,12 @@
 [2.Hive DDL，你真的了解吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483815&idx=1&sn=63b2a8307fab8d53efcb6677b8140e82&chksm=908f2bcea7f8a2d80b06d5f01c8cfe0dd2382e3226d54d325d9aa51834bfcf911de01b96a484&scene=38#wechat_redirect)  
 [3.Hive自定义函数(UDF)的编程开发，你会吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483821&idx=1&sn=996cd6ddab7fa237cfdb297466651443&chksm=908f2bc4a7f8a2d28e838aa20ac34b6bcba80983df6df0bc3ae91cea9df2a91fd3c96fb1f1fe&scene=38#wechat_redirect)  
 [4.Hive自定义函数(UDF)的部署使用，你会吗？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483825&idx=1&sn=e8f240339d698d44a0aba30245437ed5&chksm=908f2bd8a7f8a2ceb1cbe0a7afe847f0b23d5c61a24fa1b27c4d41bb0198c7ca48d2f9b0bd16&scene=38#wechat_redirect)   
-[5. 2min快速了解，Hive内部表和外部表](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483840&idx=1&sn=eff7a0596d3dde834073cba4b2dbc9f4&chksm=908f2ba9a7f8a2bf03e5dc2a674d7653df6c0c90acea484f77a4b802bfe1c578f152d0838fe0&scene=38#wechat_redirect)    
+[5. 2min快速了解，Hive内部表和外部表](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483840&idx=1&sn=eff7a0596d3dde834073cba4b2dbc9f4&chksm=908f2ba9a7f8a2bf03e5dc2a674d7653df6c0c90acea484f77a4b802bfe1c578f152d0838fe0&scene=38#wechat_redirect)  
+  
 [6. 5min掌握，Hive的HiveServer2 和JDBC客户端&代码的生产使用](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483846&idx=1&sn=4f1ce755bc9807121351d4f0b92c8183&chksm=908f2bafa7f8a2b9580a8dc2f299eb23398cd469259730c4403571a91fc2aed8afe000ea6797&scene=38#wechat_redirect)  
+[7.生产中Hive静态和动态分区表，该怎样抉择呢？](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483850&idx=1&sn=62c50ce20116818a22db8f71da7f2ab1&chksm=908f2ba3a7f8a2b514bd7c4adba3d69e8f90886e9c7f01701ce385e6096efcfc782f187d6309#rd)  
+
+
 
 ##### SQOOP:
 [Sqoop应用实战课程【buy视频】](https://ke.qq.com/course/243478?tuin=11cffd50)  
@@ -80,9 +86,12 @@
 ##### Spark:
 [Spark零基础实战【free视频】](https://ke.qq.com/course/238513?tuin=11cffd50)  
  
-[1.Spark2.2.0 全网最详细的源码编译](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483751&idx=1&sn=5b0b76b6fba35e1cb32ad8bf49530f3c&chksm=908f2b0ea7f8a2187e9745f816d2582b1544277fe863b14be319bd1f9e7018b70718691f67e6#rd)
+[1.Spark2.2.0 全网最详细的源码编译](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483751&idx=1&sn=5b0b76b6fba35e1cb32ad8bf49530f3c&chksm=908f2b0ea7f8a2187e9745f816d2582b1544277fe863b14be319bd1f9e7018b70718691f67e6#rd)  
+[2.Spark-2.2.0-bin-2.6.0-cdh5.12.1.tgz 编译方法总结！](https://blog.csdn.net/lsr40/article/details/80116235)  
 
-[2.Spark-2.2.0-bin-2.6.0-cdh5.12.1.tgz 编译方法总结！](https://blog.csdn.net/lsr40/article/details/80116235)
+[3.生产改造Spark1.6源代码，create table语法支持Oracle列表分区](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483862&idx=1&sn=7b66ca607dd4335918747d15e535a4e1&chksm=908f2bbfa7f8a2a9bfb2117f53e8ae5aae2c275801b8860b2b6ba633ba8f6a17903c3ff4baf4#rd)    
+[4.Spark History Server Web UI配置](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483867&idx=1&sn=6a6998b735f2ddd9b5d0ca8e07787398&chksm=908f2bb2a7f8a2a42858e5430461dbe90b8cfc099dccf94f20da6bfe6af3f6ea79c32c75b7e5#rd)  
+[5.Spark on YARN-Cluster和YARN-Client的区别](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483875&idx=1&sn=a6fe847f74ef213312589836585f2ef7&chksm=908f2b8aa7f8a29cecd379618ef51c2ef765d73266c091a04ea8ece8098f79446cc523fe99b7#rd)
 
 ##### Phoenix:  
 ##### HBase:
