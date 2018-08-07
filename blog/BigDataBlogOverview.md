@@ -83,16 +83,6 @@
 
 [10.你真的了解 Hive 的元数据吗？](http://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&amp;mid=2247484030&amp;idx=1&amp;sn=f9bfe226a4efc3b38536caee21fa070d&amp;chksm=908f2817a7f8a10123445446fe035e04374b3c6e173831c50920fcd9d6810886814e7bc50b20&amp;scene=27#wechat_redirect)
 
-[11.]()
-
-[12.]()
-
-[13.]()
-
-[]()
-
-[]()
-
 ##### SQOOP:
 [Sqoop应用实战课程【buy视频】](https://ke.qq.com/course/243478?tuin=11cffd50)  
 
@@ -154,10 +144,6 @@
 [20.Spark Streaming 状态管理函数，你了解吗](http://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&amp;mid=2247484051&amp;idx=1&amp;sn=650f10652f15103af7b711e50a0759d2&amp;chksm=908f28faa7f8a1ec86cc64f407756966cbc8d4a0dfac116398af4aace5c77936b73efbec678f&amp;scene=27#wechat_redirect)
 
 [21.Spark序列化，你了解吗](http://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&amp;mid=2247484152&amp;idx=1&amp;sn=7a50b1ab285969c1eb739b23e0d0c451&amp;chksm=908f2891a7f8a187220e87a923eadf3f0972b11622b85a17e22e0db48170e181df51d3914ff4&amp;scene=27#wechat_redirect)
-
-[22.]()
-
-[23.]()
 
 ##### Phoenix:  
 ##### HBase:
