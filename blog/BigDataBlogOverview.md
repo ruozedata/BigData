@@ -242,8 +242,8 @@
 
 [11.生产CDH5配置lzo](http://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&amp;mid=2247484122&amp;idx=1&amp;sn=bf236f01873ad65d7da4503adbd6614e&amp;chksm=908f28b3a7f8a1a5caedb3437baf9667a649a4575b0d7a23ea396366a5f870540a902f3649bd&amp;scene=27#wechat_redirect) 
 
-##### [《零基础企业级CDH(安全)平台实战》，详情查看课程概述或进行试听](https://ke.qq.com/course/241568?tuin=11cffd50)
-##### [若泽数据Flink实战系列](https://ke.qq.com/course/241568?tuin=11cffd50)
+##### [《零基础企业级CDH(安全)平台实战》，详情查看课程概述或进行试听](https://ke.qq.com/course/302442)
+##### [若泽数据Flink实战系列](https://ke.qq.com/course/350493)
 ##### [最全的Flink部署及开发案例(KafkaSource+SinkToMySQL)](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484501&idx=1&sn=8fb72307838fcd5abe0614d2887b10e2&chksm=908f2e3ca7f8a72a311f28c0c961b5861fab2f55d89095ba439e5e61baf4ad4027c22f1f84b0&mpshare=1&scene=23&srcid=1110xBCjEud8MbVLBkZURrNJ#rd )
 
 故障案例:
