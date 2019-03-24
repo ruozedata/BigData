@@ -1,4 +1,4 @@
-## 若泽大数据--博客一览
+﻿## 若泽大数据--博客一览
 请花1min，阅读or收藏；  
 我们整理 大数据 系列博文列表+视频，  
 内部学员原创博文及我们生产博文，当前更新于 20180512
@@ -82,6 +82,8 @@
 [9.从Hive中的stored as file_foramt看hive调优](http://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&amp;mid=2247483951&amp;idx=1&amp;sn=d967c0495f1f08eb0f6b1e15482333c9&amp;chksm=908f2846a7f8a15006aa8fad55237095ca0562e95072de3cc8f4b18689d2b08e822e8e62feb2&amp;scene=27#wechat_redirect)
 
 [10.你真的了解 Hive 的元数据吗？](http://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&amp;mid=2247484030&amp;idx=1&amp;sn=f9bfe226a4efc3b38536caee21fa070d&amp;chksm=908f2817a7f8a10123445446fe035e04374b3c6e173831c50920fcd9d6810886814e7bc50b20&amp;scene=27#wechat_redirect)
+
+https://blog.csdn.net/liweihope/article/details/88584985
 
 ##### SQOOP:
 [Sqoop应用实战课程【buy视频】](https://ke.qq.com/course/243478?tuin=11cffd50)  
