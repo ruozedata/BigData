@@ -83,7 +83,7 @@
 
 [10.你真的了解 Hive 的元数据吗？](http://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&amp;mid=2247484030&amp;idx=1&amp;sn=f9bfe226a4efc3b38536caee21fa070d&amp;chksm=908f2817a7f8a10123445446fe035e04374b3c6e173831c50920fcd9d6810886814e7bc50b20&amp;scene=27#wechat_redirect)
 
-https://blog.csdn.net/liweihope/article/details/88584985
+[11.hive实战  (https://blog.csdn.net/liweihope/article/details/88584985)
 
 ##### SQOOP:
 [Sqoop应用实战课程【buy视频】](https://ke.qq.com/course/243478?tuin=11cffd50)  
