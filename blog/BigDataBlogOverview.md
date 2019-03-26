@@ -260,6 +260,12 @@
 有任何疑问的，  
 QQ加课程顾问-星星: 1952249535 ，  
 或微信(ruoze_star)扫描以上二维码， 邀请进群。
+
+wsktest
+ ![image](https://github.com/Hackeruncle/BigData/blob/master/blog/pic/%E8%8B%A5%E6%B3%BD%E6%95%B0%E6%8D%AE--%E6%89%AB%E6%8F%8F%E5%85%A5%E5%8F%A3.png?raw=true)  
+有任何疑问的，  
+QQ加课程顾问-星星: 1952249535 ，  
+或微信(ruoze_star)扫描以上二维码， 邀请进群。
  
 
 
