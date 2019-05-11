@@ -3,7 +3,10 @@
 
 #### Join us if you have a dream.  
 ##### 若泽数据官网: [http://ruozedata.com](http://ruozedata.com)      
-##### 免费视频及公开课: [http://ruoze.ke.qq.com](http://ruoze.ke.qq.com)
+##### 腾讯课堂，搜若泽数据: [http://ruoze.ke.qq.com](http://ruoze.ke.qq.com)
+##### Bilibili网站,搜若泽数据: [https://space.bilibili.com/356836323](https://space.bilibili.com/356836323)
+
+##### [若泽大数据--官方博客](https://ruozedata.github.io)
 ##### [若泽大数据--博客一览](https://github.com/ruozedata/BigData/blob/master/blog/BigDataBlogOverview.md)
 ##### [若泽大数据--内部学员面试题](https://github.com/ruozedata/BigData/blob/master/interview/%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)  
 ##### 扫一扫，学一学:
@@ -12,7 +15,3 @@
 ###### 有任何疑问的
 ###### QQ加课程顾问-星星: `1952249535`，  
 ###### 或微信(ruoze_star)扫描以上二维码， 邀请进群。
-
-
-
-
