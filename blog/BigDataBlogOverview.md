@@ -293,8 +293,8 @@
 
 1. [2019元旦-线下项目第11期圆满结束](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484658&idx=1&sn=79308ce0a33de74a70ca9ab4cfd3fd12&chksm=908f2e9ba7f8a78d97055c40e6d80ca3439728ccae29d979ec94915f37d850498cb39d46a1b6&scene=38#wechat_redirect)
 2. [2019清明-线下项目第12期圆满结束](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484991&idx=1&sn=300dead9c8c0d93140e10a4782ec7177&chksm=908f2c56a7f8a5403775a4af31b23badf9b18e8d40923e6879f44cb4ae236a6183285a96b40c&scene=38#wechat_redirect)
-3. [2019五一线下项目第13期圆满结束](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247485111&idx=1&sn=d31a088d6066b4dc166747606cb2b13d&chksm=908f2cdea7f8a5c873695527e244d8274913bedc27bb1428b0972dcdcdc963473b43b1b94a17&scene=38#wechat_redirect)
-4. [2019端午节线下项目第14期圆满结束](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247485224&idx=1&sn=d7c252710afbc84693a2f700d9cf27ee&chksm=908f2d41a7f8a457b188c71efeeac4a8c53526c40aac3f10b72738e946c985e5196ebc81921a&scene=38#wechat_redirect)
+3. [2019五一-线下项目第13期圆满结束](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247485111&idx=1&sn=d31a088d6066b4dc166747606cb2b13d&chksm=908f2cdea7f8a5c873695527e244d8274913bedc27bb1428b0972dcdcdc963473b43b1b94a17&scene=38#wechat_redirect)
+4. [2019端午-线下项目第14期圆满结束](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247485224&idx=1&sn=d7c252710afbc84693a2f700d9cf27ee&chksm=908f2d41a7f8a457b188c71efeeac4a8c53526c40aac3f10b72738e946c985e5196ebc81921a&scene=38#wechat_redirect)
 
 ## 高薪就业及面试题
 
@@ -319,7 +319,7 @@
 ## 课程大纲
 
 1. [零基础大数据集训营](http://ruozedata.com/basic.html)
-2. [高级实战班](http://ruozedata.com/advanced.html)
+2. [大数据高级实战班](http://ruozedata.com/advanced.html)
 3. [大数据线下精英班](http://ruozedata.com/line.html) 
  
 --------------------------------------------------------------------
