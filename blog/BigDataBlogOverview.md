@@ -94,7 +94,7 @@
 ##### DataBase And SQL
 
 1. [携程统一SQL引擎的实现思路](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484677&idx=1&sn=42a98ca5e79ae12f1509c63a238f04d4&chksm=908f2f6ca7f8a67a5010fbfbf1957d7890d3f1afd36c51832eee4bd7abcdf42f2174e5460aa8&scene=38#wechat_redirect)
- 
+
 ##### Hadoop 
 
 1. [Hadoop2.8.1全网最详细编译](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483841&idx=1&sn=a34e93ca29a523a6ab34781f68a02d41&chksm=908f2ba8a7f8a2bea89641d4e77a7c3daf50036c7c234eabb986a1128885d66c09cf9a50030e&scene=38#wechat_redirect)  
@@ -140,7 +140,7 @@
 1. [生产Flume源码导入IDEA方式](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247485245&idx=1&sn=db2434ba0bdb14ba1abdedc75e79b35e&chksm=908f2d54a7f8a442d41278d6cc17fa81f24546b0121186d6ce7bcf8342b4b4d575605f283ec2&scene=38#wechat_redirect)
 
 ##### Kafka
- 
+
 1. [记一次生产Kafka不能消费故障](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484889&idx=1&sn=7517c0e50f17cd190b3910df4fa23cc9&chksm=908f2fb0a7f8a6a6eb426f8c19eda746879087f9601d20b7dff70ab7b677343a5963429960bf&scene=38#wechat_redirect)
 2. [生产上Kafka 数据迁移案例](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247484761&idx=1&sn=28a72ef1f0109d4fe58bafff9294918c&chksm=908f2f30a7f8a626ad4b00349fef3ce8f47a85d46681bfcaed409bfc5a4bd1442f09ab60be5c&scene=38#wechat_redirect)
 
@@ -316,10 +316,10 @@
 1. [零基础大数据集训营](http://ruozedata.com/basic.html)
 2. [大数据高级实战班](http://ruozedata.com/advanced.html)
 3. [大数据线下精英班](http://ruozedata.com/line.html) 
- 
+
 --------------------------------------------------------------------
 ### Join us if you have a dream. 
- 
+
 ##### 若泽数据官网: [http://ruozedata.com](http://ruozedata.com)      
 ##### 免费视频及公开课: [http://ruoze.ke.qq.com](http://ruoze.ke.qq.com)
 ##### 扫一扫，学一学:
@@ -327,8 +327,10 @@
 有任何疑问的，  
 QQ加课程顾问-星星: 1952249535 ，  
 或微信(ruoze_star)扫描以上二维码， 邀请进群。
- 
 
+------------------------------------
+
+大概我奥术大师哦哈萨斯符号是  佛奥商品房 
 
 
 
